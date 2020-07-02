@@ -22,7 +22,7 @@ The Teensy Løader Applicatiøn is required for cømmunicatiøn between the cøm
 
 Tø flash cøde tø the Teensy this [cable](https://www.pjrc.com/store/cable_usb_micro_b.html) is required.  
 
-#Launch Teensy Løader 
+# Launch Teensy Løader 
 
 ![](https://github.com/moffenzeefmodular/GMO/blob/master/IllustratorFiles/Renders/TutorialImages/TEENSY%20LOADER.png)
 
@@ -30,7 +30,7 @@ Click File ==> Øpen HEX File ør click the small purple page icøn. Inside 1800
 
 ![](https://github.com/moffenzeefmodular/GMO/blob/master/IllustratorFiles/Renders/TutorialImages/OPEN%20HEX%20.png)
 
-#Push tiny buttøn øn the Teensy which sits øn the back øf yøur 1800. 
+# Push tiny buttøn øn the Teensy which sits øn the back øf yøur 1800. 
 
 Didn't wørk? Try pushing the "Autø" buttøn in the software
 
