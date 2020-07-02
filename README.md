@@ -7,31 +7,31 @@ CC-BY-NC-SA
 https://www.moffenzeefmodular.com/
 
 # List of available alternate firmware drum machines: 
--Acetone Rhythm Ace 
--Acetone Rhythm King 
--Akai MPC2000
--Alesis HR16
--Arp Axxe
--Casio CZ230S 
--Casio RZ1 
--Cheetah MD16 
--Dr Bohm S78
--Electro Harmonix DRM15 
--Emu Proteus 3 
--Fricke MFB712 
--Kawai R50e 
--Korg Minipops 
--Linn LM1 
--Oberheim Dx 
--Roland 606 + DR55 combo kit 
--Roland 727 
--Roland 808 
--Roland 909 
--Roland CR78 
--Sequential Drumtraks 
--Simmons SDS100
--Vermona DRM1 
--Yamaha DD5
+1. Acetone Rhythm Ace 
+2. Acetone Rhythm King 
+3. Akai MPC2000
+4. Alesis HR16
+5. Arp Axxe
+6. Casio CZ230S 
+7. Casio RZ1 
+8. Cheetah MD16 
+9. Dr Bohm S78
+10. Electro Harmonix DRM15 
+11. Emu Proteus 3 
+12. Fricke MFB712 
+13. Kawai R50e 
+14. Korg Minipops 
+15. Linn LM1 
+16. Oberheim Dx 
+17. Roland 606 + DR55 combo kit 
+18. Roland 727 
+19. Roland 808 
+20. Roland 909 
+21. Roland CR78 
+22. Sequential Drumtraks 
+23. Simmons SDS100
+24. Vermona DRM1 
+15. Yamaha DD5
 
 # How to flash firmware 
 
