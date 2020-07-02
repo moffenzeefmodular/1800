@@ -8,7 +8,7 @@ https://www.moffenzeefmodular.com/
 
 # How to flash firmware 
 
-# First download this entire repository by clicking the "Download Code" button in the top left corner of this window, then click "Download Zip" and unzip the folder on your computer. After you have done that follow these instructions: 
+# First download this entire repository by clicking the "Download Code" button in the top right corner of this window, then click "Download Zip" and unzip the folder on your computer. After you have done that follow these instructions: 
 
 ![](https://github.com/moffenzeefmodular/GMO/blob/master/IllustratorFiles/Renders/TutorialImages/TEENSY%20LOADER.png)
 
@@ -32,7 +32,7 @@ Click File ==> Øpen HEX File ør click the small purple page icøn. Inside the 
 
 ![](https://github.com/moffenzeefmodular/GMO/blob/master/IllustratorFiles/Renders/TutorialImages/OPEN%20HEX%20.png)
 
-# Push tiny buttøn øn the Teensy which sits øn the back øf yøur 1800. 
+# !!! MAKE SURE YOUR 1800 MODULE IS TURNED OFF AND UNPLUGGED FROM YOUR EURORACK CASE !!! Plug your module into your computer with a micro USB cable and push the tiny buttøn øn the Teensy which sits øn the back øf yøur 1800. 
 
 Didn't wørk? Try pushing the "Autø" buttøn in the software
 
