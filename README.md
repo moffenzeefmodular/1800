@@ -6,6 +6,33 @@ MØFFENZEEF MØDULAR
 CC-BY-NC-SA
 https://www.moffenzeefmodular.com/
 
+# List of available alternate firmware drum machines: 
+-Acetone Rhythm Ace 
+-Acetone Rhythm King 
+-Akai MPC2000
+-Alesis HR16
+-Arp Axxe
+-Casio CZ230S 
+-Casio RZ1 
+-Cheetah MD16 
+-Dr Bohm S78
+-Electro Harmonix DRM15 
+-Emu Proteus 3 
+-Fricke MFB712 
+-Kawai R50e 
+-Korg Minipops 
+-Linn LM1 
+-Oberheim Dx 
+-Roland 606 + DR55 combo kit 
+-Roland 727 
+-Roland 808 
+-Roland 909 
+-Roland CR78 
+-Sequential Drumtraks 
+-Simmons SDS100
+-Vermona DRM1 
+-Yamaha DD5
+
 # How to flash firmware 
 
 # First download this entire repository by clicking the "Download Code" button in the top right corner of this window, then click "Download Zip" and unzip the folder on your computer. After you have done that follow these instructions: 
