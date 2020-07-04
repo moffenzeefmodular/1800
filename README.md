@@ -4,7 +4,7 @@ Bad Idea #1800-CALL-YER-MUM
 BY ROSS FISH 2019 
 MØFFENZEEF MØDULAR
 CC-BY-NC-SA
-https://www.moffenzeefmodular.com/
+https://www.moffenzeefmodular.com/bad-idea-1800callyermum
 
 # List of available alternate firmware drum machines: 
 1. Acetone Rhythm Ace 
