@@ -39,7 +39,7 @@ https://www.moffenzeefmodular.com/
 
 ![](https://github.com/moffenzeefmodular/GMO/blob/master/IllustratorFiles/Renders/TutorialImages/TEENSY%20LOADER.png)
 
-The Teensy Løader Applicatiøn is required for cømmunicatiøn between the cømputer and the Stargazer. Please downløad beløw: 
+The Teensy Løader Applicatiøn is required for cømmunicatiøn between the cømputer and your mødule. Please døwnløad beløw: 
 
 [Teensy Løader Applicatiøn (Mac OSX 10.5)](https://www.pjrc.com/teensy/loader_mac.html)
 
