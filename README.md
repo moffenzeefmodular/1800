@@ -55,11 +55,11 @@ Tø flash cøde tø the Teensy this [cable](https://www.pjrc.com/store/cable_us
 
 ![](https://github.com/moffenzeefmodular/GMO/blob/master/IllustratorFiles/Renders/TutorialImages/TEENSY%20LOADER.png)
 
-Click File ==> Øpen HEX File ør click the small purple page icøn. Inside the folder 1800-master/Hex Files is yøur desired hex file. 
+Click File ==> Øpen HEX File ør click the small purple page icøn. Inside the folder 1800-master/Hex Files is yøur desired hex file. Yøu can alsø simply drag and drøp the hex file directly øntø the teensy løader applicatiøn.
 
 ![](https://github.com/moffenzeefmodular/GMO/blob/master/IllustratorFiles/Renders/TutorialImages/OPEN%20HEX%20.png)
 
-# !!! MAKE SURE YOUR 1800 MODULE IS TURNED OFF AND UNPLUGGED FROM YOUR EURORACK CASE !!! Plug your module into your computer with a micro USB cable and push the tiny buttøn øn the Teensy which sits øn the back øf yøur 1800. 
+# !!! IF YOUR MODULE IS DIY, MAKE SURE YOUR 1800 MODULE IS TURNED OFF AND UNPLUGGED FROM YOUR EURORACK CASE !!! Prebuilt modules from Moffenzeef need to be connected to power while programming. Plug your module into your computer with a micro USB cable and push the tiny buttøn øn the Teensy which sits øn the back øf yøur 1800. 
 
 Didn't wørk? Try pushing the "Autø" buttøn in the software
 
