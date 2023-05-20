@@ -37,7 +37,7 @@ https://www.moffenzeefmodular.com/bad-idea-1800callyermum
 ## List of additional firmware by [HXLNT](https://github.com/hxlnt) (2023):
 26. Casio Loopy
 27. Gyroid sounds (*Animal Crossing: New Horizons*)
-28. Nintendo Entertainment System
+28. Nintendo Entertainment System (Party Time! kit)
 
 More information about HXLNT firmware at [NO BAD MEMORIES](https://www.nobadmemories.com/blog/2023/05/a-casio-loopy-eurorack-module).
 
