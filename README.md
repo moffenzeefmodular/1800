@@ -32,7 +32,14 @@ https://www.moffenzeefmodular.com/bad-idea-1800callyermum
 22. Sequential Drumtraks 
 23. Simmons SDS100
 24. Vermona DRM1 
-15. Yamaha DD5
+25. Yamaha DD5
+
+## List of additional firmware by [HXLNT](https://github.com/hxlnt) (2023):
+26. Casio Loopy
+27. Gyroid sounds (*Animal Crossing: New Horizons*)
+28. Nintendo Entertainment System (Party Time! kit)
+
+Demos and more information about HXLNT firmware are available at [NO BAD MEMORIES](https://www.nobadmemories.com/blog/2023/05/a-casio-loopy-eurorack-module).
 
 # How to flash firmware 
 
